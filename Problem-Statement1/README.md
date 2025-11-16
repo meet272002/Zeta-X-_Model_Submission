@@ -1,4 +1,4 @@
-# Problem Statement 1 — Accident Severity Classification
+# Problem Statement 1 - Accident Severity Classification
 
 This directory contains the **final implementation** for **Problem Statement 1**, focused on predicting **accident severity** using the UK Road Accident & Safety Data (2024).
 
