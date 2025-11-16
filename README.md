@@ -17,7 +17,7 @@ This project aims to analyze UK road accident data and build machine learning mo
 Developed a machine learning model to classify accident severity (Slight, Serious/Fatal) using environmental, vehicle, driver, and road-related attributes. This helps identify high-risk conditions and supports preventive safety measures.
 
 ### **Problem Statement 2 - Infrastructure Safety Optimization**
-Analyzed accident patterns to identify which infrastructure factors—such as junction types, speed limits, and lighting—contribute most to severe collisions. These insights help urban planners prioritize high-impact road improvements.
+Analyzed accident patterns to identify which infrastructure factors, such as junction types, speed limits, and lighting contribute most to severe collisions. These insights help urban planners prioritize high-impact road improvements.
 
 ### **Problem Statement 3 - Collision Risk Prediction**
 Built an explainable collision-risk prediction model to support proactive safety planning and early warning systems.
