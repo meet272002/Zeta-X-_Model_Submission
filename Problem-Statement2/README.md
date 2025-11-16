@@ -1,4 +1,4 @@
-# Problem Statement 2 — Infrastructure Safety Optimization
+# Problem Statement 2 - Infrastructure Safety Optimization
 
 This directory contains the **final implementation** for **Problem Statement 2**, focused on identifying and analyzing road infrastructure factors that contribute to accident severity in the UK Road Accident & Safety Data (2024).
 
